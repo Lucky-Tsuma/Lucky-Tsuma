@@ -1,5 +1,5 @@
 ### Hi there. 👋 Nice to meet you.
-- [Frappe Certified](https://frappe.school/courses/frappe-developer-certification/CERT-04020)
+- I am [Frappe Certified](https://frappe.school/courses/frappe-developer-certification/CERT-04020)
 - I love open source.
 - 📫 How to reach me: tsumahmumba@gmail.com
 
